@@ -1,0 +1,13 @@
+C:\chandini\Humana\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\chandini\Humana\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\chandini\Humana\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\chandini\Humana\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\chandini\Humana\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\chandini\Humana\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\chandini\Humana\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.csprojAssemblyReference.cache
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.AssemblyInfoInputs.cache
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.AssemblyInfo.cs
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Asyncawait\Asyncawait\bin\Debug\netcoreapp3.1\Asyncawait.exe
+C:\chandini\Humana\Asyncawait\Asyncawait\bin\Debug\netcoreapp3.1\Asyncawait.deps.json
+C:\chandini\Humana\Asyncawait\Asyncawait\bin\Debug\netcoreapp3.1\Asyncawait.runtimeconfig.json
+C:\chandini\Humana\Asyncawait\Asyncawait\bin\Debug\netcoreapp3.1\Asyncawait.runtimeconfig.dev.json
+C:\chandini\Humana\Asyncawait\Asyncawait\bin\Debug\netcoreapp3.1\Asyncawait.dll
+C:\chandini\Humana\Asyncawait\Asyncawait\bin\Debug\netcoreapp3.1\Asyncawait.pdb
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.dll
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.pdb
+C:\chandini\Humana\Asyncawait\Asyncawait\obj\Debug\netcoreapp3.1\Asyncawait.genruntimeconfig.cache
