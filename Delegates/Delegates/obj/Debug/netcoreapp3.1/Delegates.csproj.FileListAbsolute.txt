@@ -1,0 +1,13 @@
+C:\chandini\Humana\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\chandini\Humana\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\chandini\Humana\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\chandini\Humana\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\chandini\Humana\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\chandini\Humana\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\chandini\Humana\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\chandini\Humana\Delegates\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\chandini\Humana\Delegates\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\chandini\Humana\Delegates\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\chandini\Humana\Delegates\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\chandini\Humana\Delegates\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\chandini\Humana\Delegates\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\chandini\Humana\Delegates\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
