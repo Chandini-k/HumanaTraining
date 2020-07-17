@@ -1,0 +1,13 @@
+C:\chandini\Humana\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\chandini\Humana\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\chandini\Humana\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\chandini\Humana\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\chandini\Humana\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\chandini\Humana\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\chandini\Humana\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
