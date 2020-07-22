@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\chandini\\Humana\\Singleton\\Singleton\\Singleton.csproj": {}
+    "C:\\chandini\\Humana\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\chandini\\Humana\\Singleton\\Singleton\\Singleton.csproj": {
+    "C:\\chandini\\Humana\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\chandini\\Humana\\Singleton\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "C:\\chandini\\Humana\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\chandini\\Humana\\Singleton\\Singleton\\Singleton.csproj",
+        "projectPath": "C:\\chandini\\Humana\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\chandini\\Humana\\Singleton\\Singleton\\obj\\",
+        "outputPath": "C:\\chandini\\Humana\\DesignPatterns\\Singleton\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

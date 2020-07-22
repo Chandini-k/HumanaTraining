@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xRv4eCQNxRxz6uV6CBgzqeqAWtZvKIY0He4eWFxdRYyAKH8w0DAArC71hvcB9d8LfuFh77X93XQe3+AJ1arsEg==",
+  "dgSpecHash": "EMckaOchnen38EocQ7H3ch9os+ZN5aYLHkGdIZ1eZLmcGIkJmpaamh4BkJFYW/JdfvqsjgwDmmMFWsl+OD44Iw==",
   "success": true,
-  "projectFilePath": "C:\\chandini\\Humana\\Singleton\\Singleton\\Singleton.csproj",
+  "projectFilePath": "C:\\chandini\\Humana\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

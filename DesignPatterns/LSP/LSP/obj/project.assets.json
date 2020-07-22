@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\chandini\\Suma\\LSP\\LSP\\LSP.csproj",
+      "projectUniqueName": "C:\\chandini\\Humana\\DesignPatterns\\LSP\\LSP\\LSP.csproj",
       "projectName": "LSP",
-      "projectPath": "C:\\chandini\\Suma\\LSP\\LSP\\LSP.csproj",
+      "projectPath": "C:\\chandini\\Humana\\DesignPatterns\\LSP\\LSP\\LSP.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\chandini\\Suma\\LSP\\LSP\\obj\\",
+      "outputPath": "C:\\chandini\\Humana\\DesignPatterns\\LSP\\LSP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

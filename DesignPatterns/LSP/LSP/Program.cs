@@ -8,14 +8,14 @@ namespace LSP
         {
             IManager accountingVP = new Manager();
 
-            accountingVP.FirstName = "Emma";
-            accountingVP.LastName = "Stone";
+            accountingVP.FirstName = "chandini";
+            accountingVP.LastName = "k";
             accountingVP.CalculatePerHourRate(4);
 
             IManaged emp = new Manager();
 
-            emp.FirstName = "Tim";
-            emp.LastName = "Corey";
+            emp.FirstName = "suma";
+            emp.LastName = "B";
             emp.AssignManager(accountingVP);
             emp.CalculatePerHourRate(2);
 
