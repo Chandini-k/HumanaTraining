@@ -11,7 +11,7 @@ namespace Singleton
             Singletondemo singletondemo1 = Singletondemo.GetInstance;
             singletondemo1.PrintDetails("Example using Singleton Desing pattern");
             Singletondemo singletondemo2 = Singletondemo.GetInstance;
-            Console.WriteLine("Enter firstname and lastname");
+            Console.WriteLine("Enter firstname nd lastname");
             string firstname = Console.ReadLine();
             string lastname = Console.ReadLine();
             singletondemo2.EnterDetails(firstname,lastname);
