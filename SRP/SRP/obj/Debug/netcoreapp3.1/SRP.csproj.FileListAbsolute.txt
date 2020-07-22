@@ -1,0 +1,13 @@
+C:\chandini\Humana\SRP\SRP\bin\Debug\netcoreapp3.1\SRP.exe
+C:\chandini\Humana\SRP\SRP\bin\Debug\netcoreapp3.1\SRP.deps.json
+C:\chandini\Humana\SRP\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.json
+C:\chandini\Humana\SRP\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.dev.json
+C:\chandini\Humana\SRP\SRP\bin\Debug\netcoreapp3.1\SRP.dll
+C:\chandini\Humana\SRP\SRP\bin\Debug\netcoreapp3.1\SRP.pdb
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.csprojAssemblyReference.cache
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfoInputs.cache
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfo.cs
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.dll
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.pdb
+C:\chandini\Humana\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.genruntimeconfig.cache

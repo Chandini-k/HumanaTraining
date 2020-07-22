@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\chandini\\Humana\\Linq\\Linq\\Linq\\Linq.csproj": {}
+    "C:\\chandini\\Humana\\Linq\\Linq\\Linq.csproj": {}
   },
   "projects": {
-    "C:\\chandini\\Humana\\Linq\\Linq\\Linq\\Linq.csproj": {
+    "C:\\chandini\\Humana\\Linq\\Linq\\Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\chandini\\Humana\\Linq\\Linq\\Linq\\Linq.csproj",
+        "projectUniqueName": "C:\\chandini\\Humana\\Linq\\Linq\\Linq.csproj",
         "projectName": "Linq",
-        "projectPath": "C:\\chandini\\Humana\\Linq\\Linq\\Linq\\Linq.csproj",
+        "projectPath": "C:\\chandini\\Humana\\Linq\\Linq\\Linq.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\chandini\\Humana\\Linq\\Linq\\Linq\\obj\\",
+        "outputPath": "C:\\chandini\\Humana\\Linq\\Linq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
