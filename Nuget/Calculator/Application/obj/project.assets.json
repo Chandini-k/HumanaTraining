@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calculate/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Sample.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculate/1.1.1": {
+      "sha512": "QOLfyqVBFUmyif6O1775Yll2yITfGm81D4Ugi4t1nX+xaVQ8XT1sQVouJapj6jIbjjXTdoAes6fv0TSHMcZZXg==",
+      "type": "package",
+      "path": "calculate/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        "calculate.1.1.1.nupkg.sha512",
+        "calculate.nuspec",
+        "lib/netstandard2.0/Sample.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "calculate >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\chandini\\Humana\\Nuget\\Calculator\\application\\application.csproj",
+      "projectName": "application",
+      "projectPath": "C:\\chandini\\Humana\\Nuget\\Calculator\\application\\application.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\chandini\\Humana\\Nuget\\Calculator\\application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\chandini\\Humana\\Nuget\\Calculator\\Sample\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "calculate": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

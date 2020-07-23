@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ef6nF3o7yfS1usyJgX8/aE+Xh6FwhDo9Fg/ku6twcvng4X3ccw332N3sLd0DMFciHsHyy9edTDQasswdj7W0Ow==",
+  "success": true,
+  "projectFilePath": "C:\\chandini\\Humana\\Nuget\\Calculator\\application\\application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\calculate\\1.1.1\\calculate.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

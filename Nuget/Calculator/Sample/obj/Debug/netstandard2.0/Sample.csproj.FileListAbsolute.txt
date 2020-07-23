@@ -1,0 +1,9 @@
+C:\chandini\Humana\Nuget\Calculator\Sample\bin\Debug\netstandard2.0\Sample.deps.json
+C:\chandini\Humana\Nuget\Calculator\Sample\bin\Debug\netstandard2.0\Sample.dll
+C:\chandini\Humana\Nuget\Calculator\Sample\bin\Debug\netstandard2.0\Sample.pdb
+C:\chandini\Humana\Nuget\Calculator\Sample\obj\Debug\netstandard2.0\Sample.csprojAssemblyReference.cache
+C:\chandini\Humana\Nuget\Calculator\Sample\obj\Debug\netstandard2.0\Sample.AssemblyInfoInputs.cache
+C:\chandini\Humana\Nuget\Calculator\Sample\obj\Debug\netstandard2.0\Sample.AssemblyInfo.cs
+C:\chandini\Humana\Nuget\Calculator\Sample\obj\Debug\netstandard2.0\Sample.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Nuget\Calculator\Sample\obj\Debug\netstandard2.0\Sample.dll
+C:\chandini\Humana\Nuget\Calculator\Sample\obj\Debug\netstandard2.0\Sample.pdb

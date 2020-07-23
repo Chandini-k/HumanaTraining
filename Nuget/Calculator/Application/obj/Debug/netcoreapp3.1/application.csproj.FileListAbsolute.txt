@@ -1,0 +1,15 @@
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.csprojAssemblyReference.cache
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\application.exe
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\application.deps.json
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\application.dll
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\application.pdb
+C:\chandini\Humana\Nuget\Calculator\application\bin\Debug\netcoreapp3.1\Sample.dll
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.dll
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.pdb
+C:\chandini\Humana\Nuget\Calculator\application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
