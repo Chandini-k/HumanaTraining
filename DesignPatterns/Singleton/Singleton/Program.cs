@@ -15,6 +15,8 @@ namespace Singleton
             string firstname = Console.ReadLine();
             string lastname = Console.ReadLine();
             singletondemo2.EnterDetails(firstname,lastname);
+            Singletondemo singletondemo3 = Singletondemo.Instance;
+            singletondemo3.PrintDetails("Thread Safety");
 
         }
     }

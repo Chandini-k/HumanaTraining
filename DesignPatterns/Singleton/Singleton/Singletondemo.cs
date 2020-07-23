@@ -7,7 +7,9 @@ namespace Singleton
     public sealed class Singletondemo
     {
         private static int count = 0;
+        private static readonly object padlock = new object();
         private static Singletondemo instance = null;
+        private static Singletondemo instance1 = null;
         public static Singletondemo GetInstance
         {
             get
@@ -18,6 +20,20 @@ namespace Singleton
                    
                 }
                 return instance;
+            }
+        }
+        public static Singletondemo Instance
+        {
+            get
+            {
+                lock (padlock)
+                {
+                    if (instance1 == null)
+                    {
+                        instance1 = new Singletondemo();
+                    }
+                    return instance1;
+                }
             }
         }
         //to know how many instances created
