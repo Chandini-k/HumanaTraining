@@ -1,0 +1,14 @@
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EFCodefirstapproach.deps.json
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EFCodefirstapproach.dll
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.csprojAssemblyReference.cache
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.AssemblyInfoInputs.cache
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.AssemblyInfo.cs
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EFCodefirstapproach.pdb
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EmployeeData.dll
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EmployeeData.pdb
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.csproj.CopyComplete
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.dll
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\obj\Debug\netstandard2.0\EFCodefirstapproach.pdb
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EmplyeeDb.dll
+C:\chandini\Humana\EFCodefirstapproach\EFCodefirstapproach\bin\Debug\netstandard2.0\EmplyeeDb.pdb

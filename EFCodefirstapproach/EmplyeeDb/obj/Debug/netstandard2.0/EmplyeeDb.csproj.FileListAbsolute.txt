@@ -1,0 +1,12 @@
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\bin\Debug\netstandard2.0\EmplyeeDb.deps.json
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\bin\Debug\netstandard2.0\EmplyeeDb.dll
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.AssemblyInfoInputs.cache
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.AssemblyInfo.cs
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\bin\Debug\netstandard2.0\EmployeeData.dll
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.csprojAssemblyReference.cache
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\bin\Debug\netstandard2.0\EmplyeeDb.pdb
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\bin\Debug\netstandard2.0\EmployeeData.pdb
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.csproj.CopyComplete
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.dll
+C:\chandini\Humana\EFCodefirstapproach\EmplyeeDb\obj\Debug\netstandard2.0\EmplyeeDb.pdb

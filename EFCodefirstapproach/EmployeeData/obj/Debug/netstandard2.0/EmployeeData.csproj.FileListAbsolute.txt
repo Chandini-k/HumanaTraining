@@ -1,0 +1,9 @@
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\bin\Debug\netstandard2.0\EmployeeData.deps.json
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\bin\Debug\netstandard2.0\EmployeeData.dll
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\bin\Debug\netstandard2.0\EmployeeData.pdb
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.csprojAssemblyReference.cache
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.AssemblyInfoInputs.cache
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.AssemblyInfo.cs
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.csproj.CoreCompileInputs.cache
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.dll
+C:\chandini\Humana\EFCodefirstapproach\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.pdb
