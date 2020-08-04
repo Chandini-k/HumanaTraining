@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using UserInformation.CustomExceptionHandler;
 using UserInformation.Models;
 using UserInformation.Repositories;
 
@@ -34,6 +35,11 @@ namespace UserInformation
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "USER DETAILS", Version = "v1" });
             });
+            services.AddMvc(
+               config => {
+                   config.Filters.Add(typeof(CustomExceptionHandling));
+               }
+           );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
