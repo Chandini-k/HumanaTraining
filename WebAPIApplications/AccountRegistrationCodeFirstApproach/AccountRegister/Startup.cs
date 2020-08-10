@@ -59,7 +59,8 @@ namespace AccountRegister
                 };
             });
             services.AddMvc(
-                config => {
+                config =>
+                {
                     config.Filters.Add(typeof(CustomExceptionHandling));
                 }
             );
