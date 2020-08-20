@@ -5209,19 +5209,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\844993\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HumanaTraining\\Docker\\AccountRegistrationCodeFirstApproach\\UserInformation\\UserInformation.csproj",
+      "projectUniqueName": "C:\\chandini\\HumanaTraining\\ProjectTraining\\Docker\\AccountRegistrationCodeFirstApproach\\UserInformation\\UserInformation.csproj",
       "projectName": "UserInformation",
-      "projectPath": "C:\\HumanaTraining\\Docker\\AccountRegistrationCodeFirstApproach\\UserInformation\\UserInformation.csproj",
-      "packagesPath": "C:\\Users\\844993\\.nuget\\packages\\",
-      "outputPath": "C:\\HumanaTraining\\Docker\\AccountRegistrationCodeFirstApproach\\UserInformation\\obj\\",
+      "projectPath": "C:\\chandini\\HumanaTraining\\ProjectTraining\\Docker\\AccountRegistrationCodeFirstApproach\\UserInformation\\UserInformation.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\chandini\\HumanaTraining\\ProjectTraining\\Docker\\AccountRegistrationCodeFirstApproach\\UserInformation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\844993\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5286,7 +5290,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

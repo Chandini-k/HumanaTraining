@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DockerSampleApplication.Migrations
 {
     [DbContext(typeof(UserDBContext))]
-    [Migration("20200820044710_init")]
+    [Migration("20200820075430_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
