@@ -27,7 +27,18 @@ namespace DockerSampleApplication
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<UserDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("connectionstring")));
+            //services.AddDbContext<UserDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("connectionstring")));
+            var host = Configuration["DBHOST"] ?? "localhost";
+            var db = Configuration["DBNAME"] ?? "AccountDB";
+            var port = Configuration["DBPORT"] ?? "1433";
+            var username = Configuration["DBUSERNAME"] ?? "sa";
+            var password = Configuration["DBPASSWORD"] ?? "pass@word1";
+
+            string connStr = $"Data Source={host},{port};Integrated Security=False;";
+            connStr += $"User ID={username};Password={password};Database={db};";
+            connStr += $"Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            services.AddDbContext<UserDBContext>(options =>
+                options.UseSqlServer(connStr));
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
